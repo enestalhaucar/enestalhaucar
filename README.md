@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Enes
+🎯 iOS Developer | SwiftUI & UIKit Uzmanı | Petiverse & Girdapp Kurucusu
 
-<!--
-**enestalhaucar/enestalhaucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hakkımda
+- 🌱 Şu anda **Jetpack Compose** öğreniyorum.
+- 📚 **Boğaziçi Üniversitesi** öğrencisiyim.
+- 💻 Çalışma Alanlarım: SwiftUI, Jetpack Compose, Flutter.
 
-Here are some ideas to get you started:
+## 📊 GitHub İstatistiklerim
+![Enes'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=enes123&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 İletişim
+- [LinkedIn](https://www.linkedin.com/in/enes123)
+- [Twitter](https://twitter.com/enes123)
