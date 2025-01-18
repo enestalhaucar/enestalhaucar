@@ -4,6 +4,8 @@
 📧 talhauenes@gmail.com  
 🎸 Rock music lover & Metallica fan.  
 
+<img src="https://github.com/enestalhaucar/enestalhaucar/blob/main/statueofliberty.jpg" alt="Statue of Liberty Pixel Art" width="200" align="right">
+
 ---
 
 ## 🚀 Skills & Tools:
@@ -17,7 +19,7 @@
 ---
 
 ## 🎸 Current Jam:
-[![Don't Tread on Me](https://img.shields.io/badge/Metallica-Don't%20Tread%20on%20Me-blue?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x?si=a53262c6ea9f4bbf)
+[![Don't Tread on Me](https://img.shields.io/badge/Metallica-Don't%20Tread%20on%20Me-blue?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3zBhJBEbDD4a4SO1EaEiBP)
 
 ---
 
@@ -27,4 +29,5 @@
 
 ---
 
-
+## ✍️ Personal Note:
+**"Liberty or Death"**
