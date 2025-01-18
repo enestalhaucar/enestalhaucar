@@ -27,8 +27,4 @@
 
 ---
 
-## ✍️ Personal Note:
-**"Liberty or Death"**
-
----
 
