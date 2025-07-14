@@ -14,7 +14,6 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/WebSocket?logoColor=255%2C238%2C140)
 
 
 
